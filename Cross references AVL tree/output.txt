@@ -1,0 +1,99 @@
+                   a | 1 3 4 19 
+               again | 21 
+                 all | 7 
+                 and | 17 
+                 are | 6 7 23 
+                  as | 2 14 
+                  at | 16 
+                away | 17 
+                bear | 24 27 
+             believe | 1 
+                best | 17 
+               bloom | 8 
+             buoyant | 23 
+                 but | 7 
+                  by | 12 
+               calls | 17 
+                 can | 29 
+            cheerily | 13 
+              clouds | 6 
+             courage | 29 
+                dark | 2 
+                 day | 4 27 
+               death | 16 
+             despair | 29 
+               dream | 1 
+             elastic | 21 
+               enjoy | 14 
+                fall | 9 
+          fearlessly | 26 
+                fell | 22 
+                flit | 12 
+                 fly | 14 
+                 for | 28 
+           foretells | 4 
+               gloom | 6 
+          gloriously | 28 
+              golden | 23 
+          gratefully | 13 
+               heavy | 19 
+                 her | 23 
+                hope | 19 21 
+               hours | 12 
+                  if | 8 
+                  in | 16 
+                  is | 1 
+                 its | 9 
+              lament | 9 
+                life | 1 
+              life's | 12 
+              little | 3 
+                make | 8 
+            manfully | 26 
+             merrily | 11 
+             morning | 3 
+                 not | 1 
+                o'er | 19 
+                  of | 6 27 
+                 oft | 3 
+                  oh | 9 
+                 our | 17 
+            pleasant | 4 
+               quell | 29 
+                rain | 3 
+             rapidly | 11 
+               roses | 8 
+               sages | 2 
+                 say | 2 
+               seems | 18 
+                 she | 22 
+              shower | 8 
+                  so | 2 
+           sometimes | 6 
+              sorrow | 18 
+             springs | 21 
+               steps | 16 
+               still | 23 24 
+              strong | 24 
+               sunny | 12 
+                sway | 19 
+                 the | 8 8 27 
+                them | 14 
+               there | 6 
+               these | 7 
+                they | 14 
+              though | 16 18 22 
+               times | 16 
+                  to | 18 24 
+           transient | 7 
+               trial | 27 
+         unconquered | 22 
+                  us | 24 
+        victoriously | 28 
+                well | 24 
+                what | 16 18 
+                 why | 9 
+                will | 8 
+                 win | 18 
+               wings | 23 
+                 yet | 21 
